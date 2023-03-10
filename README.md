@@ -1,4 +1,4 @@
-# The sparks Foundation (Graduate Internship Program)
+# The sparks Foundation (GRIP)
 
 INTRODUCTION: This project is a part of my internship at The Sparks Foundation. 
 
